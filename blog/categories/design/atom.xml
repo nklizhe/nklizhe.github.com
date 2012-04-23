@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | Tom's Blog]]></title>
+  <link href="http://nklizhe.github.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://nklizhe.github.com/"/>
+  <updated>2012-04-23T11:06:26+08:00</updated>
+  <id>http://nklizhe.github.com/</id>
+  <author>
+    <name><![CDATA[Tom Li]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Apps are experiences]]></title>
+    <link href="http://nklizhe.github.com/blog/2012/04/23/apps-are-experiences/"/>
+    <updated>2012-04-23T10:29:00+08:00</updated>
+    <id>http://nklizhe.github.com/blog/2012/04/23/apps-are-experiences</id>
+    <content type="html"><![CDATA[<p>I was inspired by Matt Gemmell's post once again: "<a href="http://mattgemmell.com/2012/04/13/augmented-paper/">Augemented-Paper</a>":
+<blockquote><p>software experiences that feel like Augmented Paper are those that second-guess our (developers’) natural tendency to put functionality first, or to think of our apps as software. Apps are only incidentally software; software is an implementation detail. Instead, apps are experiences.</p></blockquote></p>
+
+<p>Can't agree more.</p>
+]]></content>
+  </entry>
+  
+</feed>
